@@ -27,7 +27,7 @@ Annotation of a Literature Corpus with Semantic Roles of Emotions</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/e(14).pdf" style="text-decoration:none;">Multiple Level Hierarchical Network-Based Clause Selection for Emotion Cause Extraction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/e(15).pdf" style="text-decoration:none;">Emotion Cause Detection with Linguistic Constructions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/e(15).pdf" style="text-decoration:none;">A Knowledge Regularized Hierarchical Approach for Emotion Cause Analysis</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/e(16).pdf" style="text-decoration:none;">Emotion Cause Events: Corpus Construction and Analysis</a></li>
 
