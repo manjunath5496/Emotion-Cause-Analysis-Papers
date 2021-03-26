@@ -17,7 +17,7 @@ Annotation of a Literature Corpus with Semantic Roles of Emotions</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/e(7).pdf" style="text-decoration:none;">Event-Driven Emotion Cause Extraction with Corpus Construction</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/e(8).pdf" style="text-decoration:none;"> Joint Learning for Emotion Classification and Emotion Cause Detection</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/e(9).pdf" style="text-decoration:none;"A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/e(9).pdf" style="text-decoration:none;"> A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Cause-Analysis-Papers/blob/master/e(10).pdf" style="text-decoration:none;">Emotion Cause Events: Corpus Construction and Analysis</a></li>                              
